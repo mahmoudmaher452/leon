@@ -309,7 +309,7 @@ body {
 .portfolio .portfolio-content .card {
   background-color: white;
   border-radius: 10px;
-  /* box-shadow: inset 0px 0px 5px 0px var(--p-color); */
+  box-shadow: inset 0px 0px 5px 0px var(--p-color);
 }
 .portfolio .portfolio-content .card img {
   max-width: 100%;
